@@ -1,0 +1,18 @@
+.favLinks, h3 {
+    text-align: center;
+    display: block;
+    color: indigo;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #fe53bb;
+  }
+
+  img {
+      border-left: 30px;
+  }

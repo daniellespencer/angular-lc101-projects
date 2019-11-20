@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Favorite Photos';
-  image1 = 'https://www.launchcode.org/assets/icons/trophy-95e8cbe9bfda44123422302951deb1c92a237d39052669b8fbfafec00cb4f608.png';
-  image2 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWAsaQvxcNyx22XoiP7OirQZv4-NMDc_76H5mIt489_6nYY-Vg&s';
-  image3 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRT2XK4W0i7icS84Yq5VHpwZ9anmDXoOFQZX0anUhWxcpL5du_&s';
+  photosTitle = 'Photos';
+  image1 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBUiOdiHY3QAFjDqnkNwsBNGsfkAa10XgwHOvaiR36nztiJ99pA&s';
+  image2 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxLGIlaO1FNrBGcbwMy-wrlRZcQ9QHCen718O4bKwrSpOtYGaWw&s';
+  image3 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcOcI5cyWIy8kG6X8h5kvyxmxlTYIMW_g5UWn7439cETHYebUQFQ&s';
 
   constructor() { }
 
